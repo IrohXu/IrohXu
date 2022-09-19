@@ -23,7 +23,14 @@ I'm Iroh Cao. I work as a software engineer during the day. At night, I am resea
 - 🔭 I’m currently working with at NYU Center of Data Science.
 
 
-## 🤝🏻 Connect, Follow, Subscribe
+### 🤝🏻 Connect, Follow, Subscribe
 
 [![Medium](https://img.shields.io/badge/Medium-333333?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@xucao-nyu)
+
+
+### 📈 GitHub Stats 
+
+[![IrohXu's github stats](https://github-readme-stats.vercel.app/api?username=IrohXu&count_private=true&show_icons=true)](https://github.com/irohxu/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IrohXu&layout=compact&langs_count=10)](https://github.com/irohxu/github-readme-stats)
+
 
