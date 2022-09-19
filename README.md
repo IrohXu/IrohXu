@@ -25,7 +25,9 @@ I'm Iroh Cao. I work as a software engineer during the day. At night, I am resea
 
 ### 🤝🏻 Connect, Follow, Subscribe
 
-💬 [Medium](https://medium.com/@xucao-nyu)
+📫 [Medium](https://medium.com/@xucao-nyu)
+📫 [Google Scholar](https://scholar.google.com/citations?user=oXWRBrwAAAAJ&hl=en)
+📫 [LinkedIn](https://www.linkedin.com/in/irohxu)
 
 
 ### 📈 GitHub Stats 
