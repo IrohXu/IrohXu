@@ -32,7 +32,6 @@ I'm Iroh Cao. I work as a software engineer during the day. At night, I am resea
 
 ### 📈 GitHub Stats 
 
-[![IrohXu's github stats](https://github-readme-stats.vercel.app/api?username=IrohXu&count_private=true&show_icons=true)](https://github.com/irohxu/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IrohXu&layout=compact&langs_count=10)](https://github.com/irohxu/github-readme-stats)
+[![IrohXu's github stats](https://github-readme-stats.vercel.app/api?username=IrohXu&count_private=true&show_icons=true)](https://github.com/irohxu/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IrohXu&layout=compact&langs_count=10)](https://github.com/irohxu/github-readme-stats)
 
 
