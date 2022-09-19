@@ -14,3 +14,16 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+I'm Iroh Cao. I work as a software engineer during the day. At night, I am research scientist at Shenzhen Children’s Hospital SZAR AI Lab. Life goes on, work goes on.  
+
+
+### ⚡️ A quick introduction
+
+- 🔭 I’m currently working with at NYU Center of Data Science.
+
+
+## 🤝🏻 Connect, Follow, Subscribe
+
+[![Medium](https://img.shields.io/badge/Medium-333333?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@xucao-nyu)
+
