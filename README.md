@@ -21,6 +21,8 @@ I'm Iroh Cao. I work as a software engineer during the day. At night, I am resea
 ### ⚡️ A quick introduction
 
 - 🔭 I’m currently working with at NYU Center of Data Science.
+- 🌱 I’m currently researching BEV Perception in LiDAR, self-driving systems, AI for Pediatrics.
+- 👯 I’m looking to collaborate on building the general AI for Pediatrics around the world. If you also interested in this topic, I can provide financial support with my lab in Shenzhen Children's Hopsital. Please contact with me.
 
 
 ### 🤝🏻 Connect, Follow, Subscribe
