@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I'm Iroh Cao. I work as a machine engineer during the day. At night, I am research scientist at Shenzhen Children’s Hospital SZAR AI Lab. Life goes on, work goes on.  
+I'm Iroh Cao. I work as a machine learning engineer during the day. At night, I am research scientist at Shenzhen Children’s Hospital SZAR AI Lab. Life goes on, work goes on.  
 
 
 ### ⚡️ A quick introduction
