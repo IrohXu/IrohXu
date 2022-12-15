@@ -15,14 +15,14 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I'm Iroh Cao. I work as a machine learning engineer during the day. At night, I am a senior research scientist at Shenzhen Children’s Hospital AI Lab. Life goes on, work goes on.    
+I'm Iroh Cao. I work as a machine learning engineer in the US during the day. At night, I am a senior research scientist at Shenzhen Children’s Hospital AI Lab. My goal is to apply newest self-supervised learning, computer vision algorithm in Autism spectrum disorder diagnosis and self-driving preception. Life goes on, work goes on.         
 
 
 ### ⚡️ A quick introduction
 
-- 🔭 I’m currently working with at NYU Center of Data Science.
-- 🌱 I’m currently researching BEV Perception in LiDAR, self-driving systems, AI for Pediatrics, AI for Social Good.
-- 👯 I’m looking to collaborate on building the general AI for Pediatrics around the world. If you also interested in this topic, I can provide financial support with my lab in Shenzhen Children's Hopsital. Please contact with me.
+- 🔭 I’m currently working with at NYU Center of Data Science.    
+- 🌱 I’m currently researching BEV Perception in LiDAR, self-driving systems, AI for Pediatrics, AI for Social Good.    
+- 👯 I’m looking to collaborate on building the general AI for Pediatrics around the world. If you also interested in this topic, I can provide financial support with my lab in Shenzhen Children's Hopsital and we are supporting summer / winter research internship. Please contact with me (irohcao@nyu.edu).    
 
 
 ### 🤝🏻 Connect, Follow, Subscribe
