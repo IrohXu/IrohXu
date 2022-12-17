@@ -20,9 +20,9 @@ I'm Iroh Cao. I work as a machine learning engineer in the US during the day. At
 
 ### ⚡️ A quick introduction
 
-- 🔭 I’m currently working with at NYU Center of Data Science.    
+- 🔭 I’m currently working with at NYU Center of Data Science & Shenzhen Children’s Hospital AI Lab.    
 - 🌱 I’m currently researching Self-supervised learning with diffusion model, BEV Perception in LiDAR, self-driving systems, AI for Pediatrics, AI for Social Good.    
-- 👯 I’m looking to collaborate on building the general AI for Pediatrics around the world. If you also interested in this topic, I can provide financial support with my lab in Shenzhen Children's Hopsital and we are supporting summer / winter research internship. Please contact with me (irohcao@nyu.edu).    
+- 👯 I’m looking to collaborate on building the general AI for Pediatrics around the world. If you also interested in this topic, I can provide financial support with my lab in Shenzhen Children's Hopsital and we are supporting summer / winter remote research internship. Please contact with me (irohcao@nyu.edu).    
 
 
 ### 🤝🏻 Connect, Follow, Subscribe
