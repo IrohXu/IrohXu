@@ -30,7 +30,7 @@ I am happy to share our collaborative research paper "THMA: Tencent HD Map AI Sy
 
 
 ### 🤝🏻 Connect, Follow, Subscribe
-🤔 [Twitter](https://twitter.com/IrohXu)      
+🤔 [Twitter](https://twitter.com/IrohXu)
 🤔 [Medium](https://medium.com/@xucao-nyu)
 🤔 [Google Scholar](https://scholar.google.com/citations?user=oXWRBrwAAAAJ&hl=en)
 🤔 [LinkedIn](https://www.linkedin.com/in/irohxu)
