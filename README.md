@@ -15,7 +15,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I'm Iroh Cao. I work as a machine learning engineer in the US during the day. At night, I am a senior research scientist at Shenzhen Children’s Hospital AI Lab. My goal is to apply newest self-supervised learning, computer vision algorithm in Autism spectrum disorder diagnosis and self-driving preception. Life goes on, work goes on.         
+I'm Iroh Cao. I work as a machine learning engineer in the US during the day. At night, I am a senior research scientist at Shenzhen Children’s Hospital AI Lab. My goal is to apply newest self-supervised learning, computer vision algorithm in Autism spectrum disorder diagnosis and self-driving preception. Life goes on, work goes on.       
+
+
+### 📫 Research Update    
+I am happy to share our collaborative research paper "THMA: Tencent HD Map AI System for Creating HD Map Annotations" accepted to IAAI 2023 this year. I will go to AAAI 2023 to present our work. Welcome to participate AAAI 2023 in Washington, D.C and drink wine with me. Cheer! [THMA: Tencent HD Map AI System for Creating HD Map Annotations]([https://www.linkedin.com/in/irohxu](https://arxiv.org/abs/2212.11123)).     
 
 
 ### ⚡️ A quick introduction
