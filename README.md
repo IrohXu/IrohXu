@@ -19,7 +19,7 @@ I'm Iroh Cao. I work as a machine learning engineer in the US during the day. At
 
 
 ### 📫 Research Update    
-I am happy to share our collaborative research paper "THMA: Tencent HD Map AI System for Creating HD Map Annotations" accepted to IAAI 2023 this year. I will go to AAAI 2023 to present our work. Welcome to participate AAAI 2023 in Washington, D.C and drink wine with me. Cheer! [THMA: Tencent HD Map AI System for Creating HD Map Annotations]([https://www.linkedin.com/in/irohxu](https://arxiv.org/abs/2212.11123)).     
+I am happy to share our collaborative research paper "THMA: Tencent HD Map AI System for Creating HD Map Annotations" accepted to IAAI 2023 this year. I will go to AAAI 2023 to present our work. Welcome to participate AAAI 2023 in Washington, D.C and drink wine with me. Cheer! [THMA: Tencent HD Map AI System for Creating HD Map Annotations](https://arxiv.org/abs/2212.11123).     
 
 
 ### ⚡️ A quick introduction
