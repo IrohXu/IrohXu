@@ -27,7 +27,7 @@ I am happy to share our collaborative research paper "THMA: Tencent HD Map AI Sy
 
 ### ⚡️ A quick introduction
 
-- 🔭 I’m currently working with at NYU Center of Data Science & Shenzhen Children’s Hospital AI Lab.    
+- 🔭 I'm currently working at a famous Stealth Startup in the bay areas. And serve as senior research scientist at Shenzhen Children’s Hospital AI Lab.    
 - 🌱 I’m currently researching Self-supervised learning with diffusion model, BEV Perception in LiDAR, self-driving systems, AI for Pediatrics, AI for Social Good.    
 - 👯 I’m looking to collaborate on building the general AI for Pediatrics around the world. If you also interested in this topic, I can provide financial support with my lab in Shenzhen Children's Hopsital and we are supporting summer / winter remote research internship. Please contact with me (irohcao@nyu.edu).    
 
