@@ -24,7 +24,7 @@ I am happy to share our collaborative research paper "ViTASD: Robust Vision Tran
 
 My commentary paper: "Commentary: machine learning for autism spectrum disorder diagnosis: challenges and opportunities" is accepted by [Journal of Child Psychology and Psychiatry](https://acamh.onlinelibrary.wiley.com/journal/14697610), one of the top journal for Autism. The full manuscript will release soon.     
 
-I am happy to share our collaborative research paper "THMA: Tencent HD Map AI System for Creating HD Map Annotations" accepted by IAAI 2023 this year. I will go to AAAI 2023 to present our work. Welcome to participate AAAI 2023 in Washington, D.C and chat with me. Cheer! [THMA: Tencent HD Map AI System for Creating HD Map Annotations](https://arxiv.org/abs/2212.11123).     
+Our collaborative research paper [THMA: Tencent HD Map AI System for Creating HD Map Annotations](https://arxiv.org/abs/2212.11123) won IAAI 'Innovative Application' Award at AAAI 2023.    
 
 
 ### ⚡️ A quick introduction
