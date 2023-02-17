@@ -29,8 +29,8 @@ Our collaborative research paper [THMA: Tencent HD Map AI System for Creating HD
 
 ### ⚡️ A quick introduction
 
-- 🔭 I'm currently working at a famous Stealth Startup in the bay areas. And serve as senior research scientist at Shenzhen Children’s Hospital AI Lab.    
-- 🌱 I’m currently researching Self-supervised learning with diffusion model, BEV Perception in LiDAR, self-driving systems, AI for Pediatrics, AI for Social Good.    
+- 🔭 I'm currently working at a famous Stealth Startup in the bay areas. And serve as a research fellow at Shenzhen Children’s Hospital AI Lab. I am the PI of the laboratory with $30,000 start up funding. We are hiring undergraduate and master students as summer internship.     
+- 🌱 I’m currently researching diffusion model, Self-supervised learning, BEV Perception in LiDAR, AI for Pediatrics, AI for Social Good.    
 - 👯 I’m looking to collaborate on building the general AI for Pediatrics around the world. If you also interested in this topic, I can provide financial support with my lab in Shenzhen Children's Hopsital and we are supporting summer / winter remote research internship. Please contact with me (irohcao@nyu.edu).    
 
 
