@@ -20,9 +20,9 @@ I'm Iroh Cao. I work as a machine learning engineer in the US during the day. At
 
 ### 📫 Research Update    
 
-I am happy to share our collaborative research paper "ViTASD: Robust Vision Transformer Baselines for Autism Spectrum Disorder Facial Diagnosis" accepted by ICASSP 2023 this year. Wenqian Ye and I will go to ICASSP 2023 to present our work. [ViTASD: Robust Vision Transformer Baselines for Autism Spectrum Disorder Facial Diagnosis](https://arxiv.org/abs/2210.16943).     
+I am happy to share our collaborative research paper "[ViTASD: Robust Vision Transformer Baselines for Autism Spectrum Disorder Facial Diagnosis](https://arxiv.org/abs/2210.16943)" accepted by ICASSP 2023 this year. Wenqian Ye and I will go to ICASSP 2023 to present our work.     
 
-My commentary paper: "Commentary: machine learning for autism spectrum disorder diagnosis: challenges and opportunities" is accepted by [Journal of Child Psychology and Psychiatry](https://acamh.onlinelibrary.wiley.com/journal/14697610), one of the top journal for Autism. The full manuscript will release soon.     
+My commentary paper: "[Commentary: machine learning for autism spectrum disorder diagnosis: challenges and opportunities](https://acamh.onlinelibrary.wiley.com/doi/full/10.1111/jcpp.13764)" is accepted by [Journal of Child Psychology and Psychiatry](https://acamh.onlinelibrary.wiley.com/journal/14697610), one of the top journal for Autism.     
 
 Our collaborative research paper [THMA: Tencent HD Map AI System for Creating HD Map Annotations](https://arxiv.org/abs/2212.11123) won IAAI 'Innovative Application' Award at AAAI 2023.    
 
