@@ -25,7 +25,7 @@ We are hiring 1-2 summer research interns at Shenzhen Children's Hospital AI Lab
 
 I will go back to academia at 2023 Fall, working as a PhD student at Department of Computer Science, University of Illinois Urbana-Champaign. My research focus is still AI for Pediatrics, AI for Social Good.      
 
-Our collaborative research paper "Mitigating Transformer Overconfidence via Lipschitz Regularization" at SZCHAI is accepted by [UAI 2023](https://www.auai.org/uai2023/). Congratulation to Wenqian!      
+Our collaborative research paper "Mitigating Transformer Overconfidence via Lipschitz Regularization" at SZCHAI is accepted by [UAI 2023](https://www.auai.org/uai2023/). Congratulation to Wenqian! Wenqian is a research fellow at Shenzhen Children’s Hospital AI Lab and he will start as a PhD student at University of Virginia this fall.      
 
 I am happy to share our collaborative research paper "[ViTASD: Robust Vision Transformer Baselines for Autism Spectrum Disorder Facial Diagnosis](https://arxiv.org/abs/2210.16943)" accepted by ICASSP 2023 this year. Wenqian Ye and I will go to ICASSP 2023 to present our work.     
 
