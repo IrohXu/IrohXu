@@ -50,9 +50,9 @@ My commentary paper: "[Commentary: machine learning for autism spectrum disorder
 有朋自远方来不亦乐乎    
 
 
-### 📈 GitHub Stats 
+<!-- ### 📈 GitHub Stats -->
 
-[![IrohXu's github stats](https://github-readme-stats.vercel.app/api?username=IrohXu&count_private=true&show_icons=true)](https://github.com/irohxu/github-readme-stats)  
+<!-- [![IrohXu's github stats](https://github-readme-stats.vercel.app/api?username=IrohXu&count_private=true&show_icons=true)](https://github.com/irohxu/github-readme-stats)  -->
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IrohXu&langs_count=5)](https://github.com/irohxu/github-readme-stats) -->
 
 
