@@ -23,7 +23,7 @@ The 1st WACV Workshop on Large Language and Vision Models for Autonomous Driving
 
 ### ⚡️ A quick introduction
 
-A boring person.     
+AI researcher for Embodied AI, Low-resource Setting, Social Good      
 
 ### 🤝🏻 Connect, Follow, Subscribe
 🤔 [Twitter](https://twitter.com/IrohXu)
