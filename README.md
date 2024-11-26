@@ -19,7 +19,11 @@ Life need freedom.
 
 ### 📫 Research Update    
 
-The 1st WACV Workshop on Large Language and Vision Models for Autonomous Driving (LLVM-AD) will be hold in Waikoloa, Hawaii. I am the main workshop and challenge organizer. Join us in Jan 8, 2024 to explore how large language models contribute to self-driving.
+The 3rd WACV Workshop on Large Language and Vision Models for Autonomous Driving (LLVM-AD) will be hold in Tucson, Arizona. I am the general chair and workshop and challenge organizer. Join us in March 4, 2025 to explore how large language models contribute to self-driving.      
+
+The version 2.0 of MAPLM challenge is released [here](https://huggingface.co/datasets/LLVM-AD/maplm_v2).      
+
+The 1st WACV Workshop on Large Language and Vision Models for Autonomous Driving (LLVM-AD) will be hold in Waikoloa, Hawaii. I am the main workshop and challenge organizer. Join us in Jan 8, 2024 to explore how large language models contribute to self-driving.      
 
 ### ⚡️ A quick introduction
 
