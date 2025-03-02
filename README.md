@@ -19,11 +19,11 @@ Life need freedom.
 
 ### 📫 Research Update    
 
-The 3rd WACV Workshop on Large Language and Vision Models for Autonomous Driving (LLVM-AD) will be hold in Tucson, Arizona. I am the general chair and workshop and challenge organizer. Join us in March 4, 2025 to explore how large language models contribute to self-driving.      
+Seeking for faculty position in the USA.
 
-The version 2.0 of MAPLM challenge is released [here](https://huggingface.co/datasets/LLVM-AD/maplm_v2).      
+SocialGesture is accepted by CVPR 2025.
 
-The 1st WACV Workshop on Large Language and Vision Models for Autonomous Driving (LLVM-AD) will be hold in Waikoloa, Hawaii. I am the main workshop and challenge organizer. Join us in Jan 8, 2024 to explore how large language models contribute to self-driving.      
+I lead the organization of ICLR 2025 [Workshop on AI for Children](https://pediamedai.com/ai4chl/). As a former patient with a rare pediatric disease, I hope to help all children suffering with disease. 
 
 ### ⚡️ A quick introduction
 
