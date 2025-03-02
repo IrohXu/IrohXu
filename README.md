@@ -19,7 +19,7 @@ Life need freedom.
 
 ### 📫 Research Update    
 
-I am actively preparing to seek a faculty position in the United States.
+I am actively preparing to seek a faculty position in the United States. Previously, I am working at Tencent researching for Autonomous Driving; SambaNova Systems researching for Vision Foundation Models.
 
 Our SocialGesture paper has been accepted to CVPR 2025.
 
