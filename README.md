@@ -15,15 +15,15 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Life need freedom. 
+I am actively preparing to seek a faculty position in the United States. Previously, I am working at Tencent researching for Autonomous Driving; SambaNova Systems researching for Vision Foundation Models.
 
 ### 📫 Research Update    
-
-I am actively preparing to seek a faculty position in the United States. Previously, I am working at Tencent researching for Autonomous Driving; SambaNova Systems researching for Vision Foundation Models.
 
 Our SocialGesture paper has been accepted to CVPR 2025.
 
 I am leading the organization of the [ICLR 2025 Workshop on AI for Children](https://pediamedai.com/ai4chl/). As a former patient with a rare pediatric disease, I am deeply committed to leveraging AI to improve healthcare outcomes for children facing medical challenges. Through my workshop, I hope to found a team to foster interdisciplinary discussions and drive impactful research in AI-driven pediatric care.
+
+I am serving as the Research roundtable subchair of Machine Learning for Health Symposium (ML4H 2024). Our research roundtable summary is aviliable [here](https://arxiv.org/abs/2502.06693).
 
 ### ⚡️ A quick introduction
 
