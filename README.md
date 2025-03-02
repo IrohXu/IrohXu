@@ -19,7 +19,7 @@ Life need freedom.
 
 ### 📫 Research Update    
 
-Seeking for faculty position in the USA.
+Plan for seeking faculty position in the USA.
 
 SocialGesture is accepted by CVPR 2025.
 
