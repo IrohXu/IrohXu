@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I am actively preparing to seek a faculty position in the United States. Previously, I am working at Tencent researching for Autonomous Driving; SambaNova Systems researching for Vision Foundation Models.
+I am actively preparing to seek a faculty position in the United States. Previously, I am working at Tencent researching for Autonomous Driving; SambaNova Systems researching for Vision Foundation Models. If you are interested in my research, feel free to reach out to me via email.
 
 ### 📫 Research Update    
 
