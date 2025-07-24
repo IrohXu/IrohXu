@@ -15,6 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+I have moved from US to Canada for full-time roles.      
+
 I will come to COLM 2025 (Montreal, Canada) from October 7-10, 2025. Feel free to send me an email for a coffee chat there!
 
 ### 📫 Research Update    
