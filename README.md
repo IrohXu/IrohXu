@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I will come to CVPR 2025 (Music City Center, Nashville TN, USA) from June 14-15. Feel free to send me an email for a coffee chat there!
+I will come to COLM 2025 (Montreal, Canada) from October 7-10, 2025. Feel free to send me an email for a coffee chat there!
 
 ### 📫 Research Update    
 
@@ -32,6 +32,7 @@ Researcher for Embodied AI, AI for Low-resource Setting, AI for Social Good
 ### 🤝🏻 Connect, Follow, Subscribe
 🤔 [Twitter](https://twitter.com/IrohXu)
 🤔 [LinkedIn](https://www.linkedin.com/in/irohxu)    
+🤔 Email: xucao [at] pediamed [dot] ai   
 
 
 
