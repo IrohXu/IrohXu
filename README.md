@@ -19,7 +19,7 @@ I will come to NeurIPS 2025 (Hilton Mexico City Reforma) from Dec 2 to 5. Feel f
 
 ### 📫 Research Update    
 
-I am drawing proposal for Workshop on Computer Vision for Children as the 2nd workshop of [ICLR 2025 AI4CHL](https://pediamedai.com/ai4chl/). As a former patient with a rare pediatric disease, I am deeply committed to leveraging AI to improve healthcare outcomes for children facing medical challenges. If you are interested in this project, feel free to contact me.    
+I am drawing proposal of Workshop on Computer Vision for Children as the 2nd workshop of [ICLR 2025 AI4CHL](https://pediamedai.com/ai4chl/). As a former patient with a rare pediatric disease, I am deeply committed to leveraging AI to improve healthcare outcomes for children facing medical challenges. If you are interested in this project, feel free to contact me.    
 
 Two papers are accepted by NeurIPS 2025!    
 
