@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->    
 
-I will come to NeurIPS 2025 (Mexico City) from Dec 2 to 5. Feel free to send me an email for a coffee chat there!
+I will come to NeurIPS 2025 (Hilton Mexico City Reforma) from Dec 2 to 5. Feel free to send me an email for a coffee chat there!     
 
 ### 📫 Research Update    
 
