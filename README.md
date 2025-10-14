@@ -19,7 +19,9 @@ I will come to NeurIPS 2025 (Mexico City) from Dec 2 to 5. Feel free to send me 
 
 ### 📫 Research Update    
 
-Two papers are accepted by NeurIPS 2025!
+Two papers are accepted by NeurIPS 2025!    
+
+I was awarded as the Canadian Institute for Advanced Research (CIFAR) PhD Research Fellowship.     
 
 I am leading the organization of the [ICLR 2025 Workshop on AI for Children](https://pediamedai.com/ai4chl/). As a former patient with a rare pediatric disease, I am deeply committed to leveraging AI to improve healthcare outcomes for children facing medical challenges. Through my workshop, I hope to found a team to foster interdisciplinary discussions and drive impactful research in AI-driven pediatric care.
 
