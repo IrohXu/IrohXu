@@ -19,11 +19,11 @@ I will come to NeurIPS 2025 (Hilton Mexico City Reforma) from Dec 2 to 5. Feel f
 
 ### 📫 Research Update    
 
+I am drawing proposal for Workshop on Computer Vision for Children as the 2nd workshop of [ICLR 2025 AI4CHL](https://pediamedai.com/ai4chl/). As a former patient with a rare pediatric disease, I am deeply committed to leveraging AI to improve healthcare outcomes for children facing medical challenges. If you are interested in this project, feel free to contact me.    
+
 Two papers are accepted by NeurIPS 2025!    
 
 I was awarded as the Canadian Institute for Advanced Research (CIFAR) PhD Research Fellowship.     
-
-I am leading the organization of the [ICLR 2025 Workshop on AI for Children](https://pediamedai.com/ai4chl/). As a former patient with a rare pediatric disease, I am deeply committed to leveraging AI to improve healthcare outcomes for children facing medical challenges. Through my workshop, I hope to found a team to foster interdisciplinary discussions and drive impactful research in AI-driven pediatric care.
 
 ### ⚡️ A quick introduction
 
