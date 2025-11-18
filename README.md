@@ -19,9 +19,9 @@ I won't go to NeurIPS 2025 due to injury.
 
 ### 📫 Research Update    
 
-I am drawing proposal of Workshop on Computer Vision for Children as the 2nd workshop of [ICLR 2025 AI4CHL](https://pediamedai.com/ai4chl/). As a former patient with a rare pediatric disease, I am deeply committed to leveraging AI to improve healthcare outcomes for children facing medical challenges. If you are interested in this project, feel free to contact me.    
+I am drawing proposal of Workshop on Computer Vision for Children as the 2nd workshop of [ICLR 2025 AI4CHL](https://pediamedai.com/ai4chl/). As a former patient with a rare pediatric disease, I am deeply committed to leveraging AI to improve healthcare outcomes for children facing medical challenges. If you are interested in this project, feel free to DM me.    
 
-Two papers are accepted by NeurIPS 2025!    
+Two papers are accepted by NeurIPS 2025!     
 
 I was awarded as the Canadian Institute for Advanced Research (CIFAR) PhD Research Fellowship.     
 
@@ -33,7 +33,6 @@ Researcher for Embodied AI, LLM/VLM Post-training, Social AI.
 🤔 [Twitter](https://twitter.com/IrohXu)       
 🤔 [LinkedIn](https://www.linkedin.com/in/irohxu)     
 🤔 Email: xucao [at] pediamed [dot] ai   
-
 
 
 ### 📈 GitHub Stats
