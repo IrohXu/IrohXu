@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->    
 
-I will come to NeurIPS 2025 (Hilton Mexico City Reforma) from Nov 30 to Dec 1.    
+I won't go to NeurIPS 2025 due to injury.    
 
 ### 📫 Research Update    
 
