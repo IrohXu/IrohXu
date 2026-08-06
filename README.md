@@ -26,8 +26,6 @@ Researcher for Embodied AI, LLM/VLM Post-training, Social AI.
 ### 🤝🏻 Connect, Follow, Subscribe
 [Twitter](https://twitter.com/IrohXu)       
 [LinkedIn](https://www.linkedin.com/in/irohxu)     
-Email: xucao [at] pediamed [dot] ai   
-
 
 <!-- ### 📈 GitHub Stats -->
 
