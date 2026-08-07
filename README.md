@@ -17,15 +17,15 @@ Here are some ideas to get you started:
 
 ### 📫 Research Update    
 
-We will organize the CVPR 2026 2nd Workshop on Computer Vision for Children with UIUC, ETH Zurich, University of Basel, Shenzhen Children's Hospital      
+I join a Steath-mode start-up as Research Scientist recently.            
 
 ### ⚡️ A quick introduction
 
 Researcher for Embodied AI, LLM/VLM Post-training, Social AI.      
 
-### 🤝🏻 Connect, Follow, Subscribe
-[Twitter](https://twitter.com/IrohXu)       
-[LinkedIn](https://www.linkedin.com/in/irohxu)     
+<!-- ### 🤝🏻 Connect, Follow, Subscribe -->
+<!-- [Twitter](https://twitter.com/IrohXu) -->        
+<!-- [LinkedIn](https://www.linkedin.com/in/irohxu) -->        
 
 <!-- ### 📈 GitHub Stats -->
 
