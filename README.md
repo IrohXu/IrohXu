@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 ### 📫 Research Update    
 
-I join a Steath-mode start-up as Research Scientist recently.            
+I join a steath-mode start-up and work as Research Scientist recently.            
 
 ### ⚡️ A quick introduction
 
