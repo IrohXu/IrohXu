@@ -17,11 +17,11 @@ Here are some ideas to get you started:
 
 ### 📫 Research Update    
 
-I join a steath-mode start-up and work as Research Scientist recently.            
+I join a steath-mode start-up and work as a Member of Technical Staff recently.            
 
 ### ⚡️ A quick introduction
 
-Researcher for Embodied AI, LLM/VLM Post-training, Social AI.      
+Researcher for LLM/VLM Post-training, Social AI, Embodied Agent, AI for Science.      
 
 <!-- ### 🤝🏻 Connect, Follow, Subscribe -->
 <!-- [Twitter](https://twitter.com/IrohXu) -->        
